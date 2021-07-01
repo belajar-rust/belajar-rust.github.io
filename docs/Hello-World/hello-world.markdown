@@ -8,7 +8,7 @@ nav_order: 3
 Sekarang setelah Anda menginstal Rust, tulis program Rust pertama Anda. Sudah menjadi tradisi ketika mempelajari bahasa baru untuk menulis program kecil yang menampilkan teks Hello, World! ke layar, jadi kita akan melakukan hal yang sama di sini!
 
 <div class="code-example">
-Catatan: Dokuemntasi ini berasumsi perintah dasar setiap lingkungan atau environment sama. Rust tidak membuat tuntutan khusus untuk pengeditan atau alat yang Anda pakai atau di mana kode Anda berada, jadi jika Anda lebih suka menggunakan lingkungan pengembangan terintegrasi (IDE) daripada baris perintah, jangan ragu untuk menggunakan IDE favorit Anda. Banyak IDE sekarang memiliki pengembangan dan dukungan Rust; periksa dokumentasi IDE untuk detailnya. Baru-baru ini, tim Rust telah berfokus untuk mengaktifkan dukungan IDE di berbagai editor, dan kemajuan telah dibuat dengan cepat. terima kasih untuk team developer Rust.
+Catatan: Dokumentasi ini berasumsi perintah dasar setiap lingkungan atau environment sama. Rust tidak membuat tuntutan khusus untuk pengeditan atau alat yang Anda pakai atau di mana kode Anda berada, jadi jika Anda lebih suka menggunakan lingkungan pengembangan terintegrasi (IDE) daripada baris perintah, jangan ragu untuk menggunakan IDE favorit Anda. Banyak IDE sekarang memiliki pengembangan dan dukungan Rust; periksa dokumentasi IDE untuk detailnya. Baru-baru ini, tim Rust telah berfokus untuk mengaktifkan dukungan IDE di berbagai editor, dan kemajuan telah dibuat dengan cepat. terima kasih untuk team developer Rust.
 </div>
 
 ### Membuat Folder untuk Rust Project
