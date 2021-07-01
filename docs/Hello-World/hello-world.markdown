@@ -111,7 +111,7 @@ fn main() {
 
 Garis-garis ini mendefinisikan fungsi di Rust. Fungsi utamanya adalah khusus: selalu kode pertama yang berjalan di setiap program Rust yang dapat dieksekusi. Baris pertama mendeklarasikan fungsi bernama main yang tidak memiliki parameter dan tidak mengembalikan apa pun. Jika ada parameter, mereka akan masuk ke dalam tanda kurung, ().
 
-Perhatikan juga bahwa badan fungsi dibungkus dalam tanda kurung kurawal, {}. Karat membutuhkan ini di sekitar semua badan fungsi. Ini adalah gaya yang baik untuk menempatkan kurung kurawal pembuka pada baris yang sama dengan deklarasi fungsi, dengan menambahkan satu spasi di antaranya.
+Perhatikan juga bahwa badan fungsi dibungkus dalam tanda kurung kurawal, {}. Rust membutuhkan ini di sekitar semua badan fungsi. Ini adalah gaya yang baik untuk menempatkan kurung kurawal pembuka pada baris yang sama dengan deklarasi fungsi, dengan menambahkan satu spasi di antaranya.
 
 Jika Anda ingin tetap menggunakan gaya standar di seluruh proyek Rust, Anda dapat menggunakan alat pemformat otomatis yang disebut rustfmt untuk memformat kode Anda dalam gaya tertentu. Tim Rust telah menyertakan alat ini dengan distribusi Rust standar, seperti rustc, jadi seharusnya sudah diinstal di komputer Anda! Periksa dokumentasi online untuk lebih jelasnya.
 
