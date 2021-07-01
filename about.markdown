@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Tentang 
 nav_order: 4
 ---
