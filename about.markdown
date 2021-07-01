@@ -12,3 +12,5 @@ salam belajar.
 kamu dapat menemukan saya di
 1. [Github](https://github.com/huzairuje)
 2. [Website Pribadi Saya](https://huzairuje.github.io/portfolio/)
+
+kamu bisa berkontirbusi di organisasi terbuka di repository ini [repository belajar-rust di github](https://github.com/belajar-rust/)
